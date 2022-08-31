@@ -16,6 +16,6 @@ if((a+b)>=c && (a+c)>=b && (b+c)>=a)
 		System.out.println("Area of the Triangle is "+area);
 	}
 else
-	System.out.println("The Triangle is not possible!");
+	System.out.println("The Triangle is not possible!");//because triangle should fulfill some of the conditions aforementinoed.
 }
 }
